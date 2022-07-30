@@ -1,4 +1,3 @@
-from operator import index
 import numpy as np
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
